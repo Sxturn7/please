@@ -427,7 +427,7 @@ export default function App() {
                   <div className="pt-12 flex items-center gap-4 text-white/20">
                     <div className="h-px flex-1 bg-white/10" />
                     <Info size={16} />
-                    <span className="font-mono text-[10px] uppercase tracking-[0.3em]">---</span>
+                    <span className="font-mono text-[10px] uppercase tracking-[0.3em]">Isolated View</span>
                     <div className="h-px flex-1 bg-white/10" />
                   </div>
                 </div>
