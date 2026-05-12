@@ -35,7 +35,7 @@ const WRAPPED_DATA: WrappedItem[] = [
     content: `2 years as Head of Choir. 
 
 Every single morning, you were part of everyone's day before they even realised it. Small moments. Quiet ones. But they mattered. You were setting the tone for the entire school, day after day, year after year.`,
-    image: "New Folder/Me.jpeg"
+    image: "/Me.jpeg"
   },
   {
     id: "stadium",
@@ -46,7 +46,7 @@ Every single morning, you were part of everyone's day before they even realised 
     content: `Your parents. Watching their son do something different. Something that wasn't expected of him. Something special.
     
 This was the first time they saw you in this light. Not just as their son, but as a performer. Something special was happening, and the scale of the stadium only amplified the realization that this was where you belonged.`,
-    image: "New Folder/Stadium.jpeg"
+    image: "/Stadium.jpeg"
   },
   {
     id: "first-rush",
@@ -59,7 +59,7 @@ This was the first time they saw you in this light. Not just as their son, but a
 You were the only junior on the OC team also the anchor at the same time. Your hands were shaking, your brain completely blank. Your senior said "Talk to them like you'd talk to me."
 
 You don't know exactly what happened. But for the first time in your life, you felt that rush. That feeling you spend the rest of your life chasing.`,
-    image: "New Folder/Freshers.jpeg"
+    image: "/Freshers.jpeg"
   },
   {
     id: "backbone",
@@ -77,7 +77,7 @@ And not every performance goes well. That's actually where the real experience c
 
 Times you froze in front of something you'd never touched before: I honestly don’t know. 
 But that's the best thing, That's what makes you special. You look at it. And understand it. And make sure it works when it matters most.`,
-    image: "New Folder/Hehe.jpeg"
+    image: "/Hehe.jpeg"
   },
   {
     id: "euphony",
@@ -90,7 +90,7 @@ But that's the best thing, That's what makes you special. You look at it. And un
 This time, you weren’t just there because you couldn’t stay away. You were there because it was your responsibility to make sure everything worked. And you took that seriously.
 
 Euphony taught you what goes wrong, what needs to be checked twice, what performers need before they even walk on stage. The things nobody sees. The things that make or break the whole night. You were there for all of it.`,
-    image: "New Folder/Euphony.jpeg"
+    image: "/Euphony.jpeg"
   },
   {
     id: "delirium",
@@ -108,7 +108,7 @@ Euphony taught you what goes wrong, what needs to be checked twice, what perform
 Because when you've grown up around music, when you understand what that stage means to the people standing on it, you want to freeze.. take a moment for yourself, then you realise you don’t have time so you just do what needs to be done.
 
 Delirium is the event that showed you what you're actually capable of when the stakes are real.`,
-    image: "New Folder/Delirium.jpeg"
+    image: "/Delirium.jpeg"
   },
   {
     id: "crescendo",
@@ -121,7 +121,7 @@ Delirium is the event that showed you what you're actually capable of when the s
 You helped set up Crescendo, made sure everything was in place before the performances started. (You also helped in the practice of your band as well). 
 
 And then ran (To vanity). Because that's just what you do. No excuses, no missing pieces. Just pure execution.`,
-    image: "New Folder/Crescendo.jpeg"
+    image: "/Crescendo.jpeg"
   },
   {
     id: "vanity",
@@ -132,7 +132,7 @@ And then ran (To vanity). Because that's just what you do. No excuses, no missin
     content: `You made sure everyone had their roles. Handled the coordination. Kept everything together (quietly), without making it a bigger deal than it needed to be.
     
 Sometimes the best thing you can do is just handle it. And move on. That is exactly what u did`,
-    image: "New Folder/Vanity.jpeg"
+    image: "/Vanity.jpeg"
   },
   {
     id: "proscenium",
@@ -145,7 +145,7 @@ Sometimes the best thing you can do is just handle it. And move on. That is exac
 But then something hit you. Your co-coordinators were still there. Still working. Still giving everything they had. And you thought, “I’m tired just from taking care of this one event. How tired must they be. They had put way more at stake than me. Way more.” And you just couldn't process leaving all of that on them.
 
 So you went back. Sat in the wings. Operated the lights. Handled the sound. Stayed till the very end, when only two or three EC members were left in the entire venue. That moment wasn't planned. It wasn't something you did to be noticed. It just happened. Because that's who you are.`,
-    image: "New Folder/Proscenium2.jpeg"
+    image: "/Proscenium2.jpeg"
   },
   {
     id: "leader",
@@ -156,7 +156,7 @@ So you went back. Sat in the wings. Operated the lights. Handled the sound. Stay
     content: `You were one of the only EC members who got the opportunity to pick the people you wanted to work with and handle an entire event under you.
     
 That responsibility—choosing your team, ensuring they deliver, and sculpting the event from the wings—showed everyone that you weren't just participating. You were orchestrating. This was the moment you proved you could lead without needing to be loud.`,
-    image: "New Folder/Proscenium.jpeg"
+    image: "/Proscenium.jpeg"
   },
   {
     id: "amplifi",
@@ -169,7 +169,7 @@ That responsibility—choosing your team, ensuring they deliver, and sculpting t
 On-the-spot decisions. The Christmas jamming session that was your idea. The unofficial poster-making event in the music room that nobody asked for but everyone loved. Every little moment where people could just have fun and feel something real.
 
 You won't say the award was only because of you. But you'd like to believe you were a significant part of it.`,
-    image: "New Folder/Amplif-i.jpeg"
+    image: "/Amplif-i.jpeg"
   },
   {
     id: "culcom",
@@ -191,7 +191,7 @@ Quoting Azeem bhaiya that night:
 "If you weren't there, I don't know if the event would have even been possible to pull off. Amazing work. I've never seen anyone use that room in the past three years of my life."
 
 Because it was never about the title. It was never about being asked. It was always just about showing up.`,
-    image: "New Folder/CULCOM.jpeg"
+    image: "/CULCOM.jpeg"
   },
   {
     id: "flip",
@@ -202,7 +202,7 @@ Because it was never about the title. It was never about being asked. It was alw
     content: `Why does any of this matter to him?
 
 You've spent years building, performing, and making sure everything works. But the real story isn't just about the events that happened. It's about why you keep going back. It's about the pull that you cannot ignore.`,
-    image: "New Folder/Haha.jpeg"
+    image: "/Haha.jpeg"
   },
   {
     id: "pull",
@@ -217,7 +217,7 @@ Delirium with everything on the line.
 Proscenium… showing up anyway.
 
 The stage has always pulled you in. Not just to perform on it. But to make sure everyone else's moment on it is perfect. That's the difference. That's always been the difference.`,
-    image: "New Folder/Pull.jpeg"
+    image: "/Pull.jpeg"
   },
   {
     id: "feeling",
@@ -230,7 +230,7 @@ The stage has always pulled you in. Not just to perform on it. But to make sure 
 That feeling, that rush is indescribable. It's the reason you showed up to every event without being asked. The reason you went back to Proscenium when you had every reason to leave. The reason you were the last one in the auditorium at Transition Night.
 
 The satisfaction of doing something that effects someone else, that leaves a mark on people, that feeling is just everything to you. Always has been. Always will be.`,
-    image: "New Folder/Feeling.jpeg"
+    image: "/Feeling.jpeg"
   }
 ];
 
@@ -241,7 +241,7 @@ const ARCHETYPES = [
     source: "BLACK CLOVER",
     tagline: "The Gritty Underdog",
     desc: "No magic in a world full of magic. But showing up harder than everyone anyway. Every single time. The hustle is the magic.",
-    img: "New Folder/Asta.png"
+    img: "/Asta.png"
   },
   {
     id: "harry",
@@ -249,7 +249,7 @@ const ARCHETYPES = [
     source: "HP",
     tagline: "The Growth Arc",
     desc: "Told he wasn't enough. Kept going. The stage is your lightning bolt and your path to being more than they said you could be.",
-    img: "New Folder/Harry.jpg"
+    img: "/Harry.jpg"
   },
   {
     id: "cooper",
@@ -257,7 +257,7 @@ const ARCHETYPES = [
     source: "INTERSTELLAR",
     tagline: "The Explorer",
     desc: "Going further than anyone thought possible because something bigger is pulling you forward. \"Do not go gentle into that good night.\"",
-    img: "New Folder/Inter.jpg"
+    img: "/Inter.jpg"
   }
 ];
 
