@@ -214,7 +214,7 @@ You've spent years building, performing, and making sure everything works. But t
 Freshers with shaking hands.
 GTM with 450 moving pieces.
 Delirium with everything on the line.
-Proscenium… showing up anyway.
+nium… showing up anyway.
 
 The stage has always pulled you in. Not just to perform on it. But to make sure everyone else's moment on it is perfect. That's the difference. That's always been the difference.`,
     image: "Pull.jpeg"
@@ -227,7 +227,7 @@ The stage has always pulled you in. Not just to perform on it. But to make sure 
     quote: "There is a very specific feeling.",
     content: `When you do something that makes someone else's moment special. When you watch someone walk on stage terrified and walk off glowing. When that 1 performance hits exactly right and you can feel the room shift. When an event that could have fallen apart, doesn't. Because you were there.
 
-That feeling, that rush is indescribable. It's the reason you showed up to every event without being asked. The reason you went back to Proscenium when you had every reason to leave. The reason you were the last one in the auditorium at Transition Night.
+That feeling, that rush is indescribable. It's the reason you showed up to every event without being asked. The reason you went back to nium when you had every reason to leave. The reason you were the last one in the auditorium at Transition Night.
 
 The satisfaction of doing something that effects someone else, that leaves a mark on people, that feeling is just everything to you. Always has been. Always will be.`,
     image: "Feeling.jpeg"
