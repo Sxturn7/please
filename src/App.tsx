@@ -616,7 +616,19 @@ export default function App() {
               <div className="md:col-start-1 md:col-span-11 bg-primary text-black p-10 md:p-20 transform md:-rotate-1 relative overflow-hidden group mb-32 rounded-[2.5rem]">
                 <div className="absolute top-0 right-0 p-12 opacity-10 group-hover:scale-110 transition-transform duration-700">
                   <Star size={300} />
-               
+                </div>
+                <div className="relative z-10 space-y-12">
+                  <span className="font-mono text-sm uppercase tracking-[0.6em] border-b border-black/20 pb-4 inline-block">YOUR MOST STREAMED MOMENT</span>
+                  <h3 className="font-display text-6xl md:text-[7rem] lg:text-[8rem] leading-none uppercase tracking-tighter">PROSCENIUM</h3>
+                  <p className="font-body-md text-xl md:text-2xl italic font-bold">"the one that says everything"</p>
+                </div>
+              </div>
+
+              <div className="grid grid-cols-1 md:grid-cols-2 gap-24 lg:gap-32">
+                {WRAPPED_DATA.filter(d => d.type.includes("PHASE 04") && d.id !== "proscenium").map((item) => (
+                  <WrappedCard key={item.id} item={item} onClick={() => setSelectedItem(item)} />
+                ))}
+              </div>
             </section>
 
             {/* Philosophy */}
