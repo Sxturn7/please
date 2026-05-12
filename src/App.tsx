@@ -154,8 +154,8 @@ So you went back. Sat in the wings. Operated the lights. Handled the sound. Stay
     subtitle: "VISIONARY EXECUTION",
     quote: "Responsibility is a privilege, execution is the goal.",
     content: `You were one of the only EC members who got the opportunity to pick the people you wanted to work with and handle an entire event under you.
-    
-That responsibility—choosing your team, ensuring they deliver, and sculpting the event from the wings—showed everyone that you weren't just participating. You were orchestrating. This was the moment you proved you could lead without needing to be loud.`,
+That responsibility, choosing your team, making sure they deliver, making sure the event goes exactly the way it's supposed to.
+You didn't take it lightly. Not even for a second`,
     image: "Proscenium.jpeg"
   },
   {
