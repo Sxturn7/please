@@ -35,7 +35,7 @@ const WRAPPED_DATA: WrappedItem[] = [
     content: `2 years as Head of Choir. 
 
 Every single morning, you were part of everyone's day before they even realised it. Small moments. Quiet ones. But they mattered. You were setting the tone for the entire school, day after day, year after year.`,
-    image: "/me.jpeg"
+    image: "/Me.jpeg"
   },
   {
     id: "stadium",
@@ -46,7 +46,7 @@ Every single morning, you were part of everyone's day before they even realised 
     content: `Your parents. Watching their son do something different. Something that wasn't expected of him. Something special.
     
 This was the first time they saw you in this light. Not just as their son, but as a performer. Something special was happening, and the scale of the stadium only amplified the realization that this was where you belonged.`,
-    image: "/stadium .jpeg"
+    image: "/Stadium.jpeg"
   },
   {
     id: "first-rush",
@@ -59,7 +59,7 @@ This was the first time they saw you in this light. Not just as their son, but a
 You were the only junior on the OC team also the anchor at the same time. Your hands were shaking, your brain completely blank. Your senior said "Talk to them like you'd talk to me."
 
 You don't know exactly what happened. But for the first time in your life, you felt that rush. That feeling you spend the rest of your life chasing.`,
-    image: "/freshers.jpeg"
+    image: "/Freshers.jpeg"
   },
   {
     id: "backbone",
@@ -77,7 +77,7 @@ And not every performance goes well. That's actually where the real experience c
 
 Times you froze in front of something you'd never touched before: I honestly don’t know. 
 But that's the best thing, That's what makes you special. You look at it. And understand it. And make sure it works when it matters most.`,
-    image: "/hehe.jpeg"
+    image: "/Hehe.jpeg"
   },
   {
     id: "euphony",
@@ -169,7 +169,7 @@ That responsibility—choosing your team, ensuring they deliver, and sculpting t
 On-the-spot decisions. The Christmas jamming session that was your idea. The unofficial poster-making event in the music room that nobody asked for but everyone loved. Every little moment where people could just have fun and feel something real.
 
 You won't say the award was only because of you. But you'd like to believe you were a significant part of it.`,
-    image: "/amplif-i.jpeg"
+    image: "/Amplif-i.jpeg"
   },
   {
     id: "culcom",
@@ -191,7 +191,7 @@ Quoting Azeem bhaiya that night:
 "If you weren't there, I don't know if the event would have even been possible to pull off. Amazing work. I've never seen anyone use that room in the past three years of my life."
 
 Because it was never about the title. It was never about being asked. It was always just about showing up.`,
-    image: "/CULCOM..jpeg"
+    image: "/CULCOM.jpeg"
   },
   {
     id: "flip",
@@ -202,7 +202,7 @@ Because it was never about the title. It was never about being asked. It was alw
     content: `Why does any of this matter to him?
 
 You've spent years building, performing, and making sure everything works. But the real story isn't just about the events that happened. It's about why you keep going back. It's about the pull that you cannot ignore.`,
-    image: "/haha.jpeg"
+    image: "/Haha.jpeg"
   },
   {
     id: "pull",
@@ -217,7 +217,7 @@ Delirium with everything on the line.
 Proscenium… showing up anyway.
 
 The stage has always pulled you in. Not just to perform on it. But to make sure everyone else's moment on it is perfect. That's the difference. That's always been the difference.`,
-    image: "/pull.jpeg"
+    image: "/Pull.jpeg"
   },
   {
     id: "feeling",
@@ -230,7 +230,7 @@ The stage has always pulled you in. Not just to perform on it. But to make sure 
 That feeling, that rush is indescribable. It's the reason you showed up to every event without being asked. The reason you went back to Proscenium when you had every reason to leave. The reason you were the last one in the auditorium at Transition Night.
 
 The satisfaction of doing something that effects someone else, that leaves a mark on people, that feeling is just everything to you. Always has been. Always will be.`,
-    image: "/feeling.jpeg"
+    image: "/Feeling.jpeg"
   }
 ];
 
@@ -241,7 +241,7 @@ const ARCHETYPES = [
     source: "BLACK CLOVER",
     tagline: "The Gritty Underdog",
     desc: "No magic in a world full of magic. But showing up harder than everyone anyway. Every single time. The hustle is the magic.",
-    img: "https://lh3.googleusercontent.com/aida-/AB6AXuBWD8ih3SjNV9DyJByn5kKAei5LOhNhTCqAg9qa6dk9G7TCsPTcc_t_8xD28nLWFRkF6IhCIhFjRrO4OuEK7WlFtA5HrqhEHHWpUby8eTSwRCaXyKe2l0ZQSfp-9h9Exjfm1XdUsYb8JMcGdjFSaJbxuieEVrwwPR4Md9DpblD1ZM4yN0trycUCvxRQELbWC-QnpRGTVCOc9zLB2OtTL5D9m5FFFvnIiG3biTvVsEPWRomV_f-D6v6wkDwe70a8qps-F39alBJ9uKWG"
+    img: "/Asta.png"
   },
   {
     id: "harry",
@@ -249,7 +249,7 @@ const ARCHETYPES = [
     source: "HP",
     tagline: "The Growth Arc",
     desc: "Told he wasn't enough. Kept going. The stage is your lightning bolt and your path to being more than they said you could be.",
-    img: "/HARRY.jpg"
+    img: "/Harry.jpg"
   },
   {
     id: "cooper",
@@ -257,7 +257,7 @@ const ARCHETYPES = [
     source: "INTERSTELLAR",
     tagline: "The Explorer",
     desc: "Going further than anyone thought possible because something bigger is pulling you forward. \"Do not go gentle into that good night.\"",
-    img: "/inter.jpg"
+    img: "/Inter.jpg"
   }
 ];
 
